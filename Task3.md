@@ -1,4 +1,4 @@
-#### STEP 2:
+#### Controlling the Robot Arm:
  
 ```
 sudo apt-get install ros-noetic-catkin
